@@ -1,1 +1,1 @@
-# dynamic-copy-editor
+# dynamic-copy-app
